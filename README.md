@@ -1,5 +1,5 @@
 # Apple_AppStore_EDA
-This Repository contains the code and all the materials related to the Apple_AppleStore_EDA project.
+This Repository contains the code and all the materials related to the Apple_AppleStore_EDA.
 
 
 Exploratory Data Analysis (EDA) on the Apple App Store involves a comprehensive examination of the available data to derive meaningful insights and patterns. Here is a more detailed breakdown of what this process might entail:
